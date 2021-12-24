@@ -832,8 +832,8 @@ iframe {
 	/* logo */
 	.logo{
 		margin-left: 30%;
-    width: 90px;
-    height: 90px;
+	        width: 90px;
+	        height: 90px;
 	}
 	
 	.banner-section{
@@ -852,6 +852,12 @@ iframe {
 		width: 50%;
 		margin-top: 17px;
 	}
-	
+/* 	 */
+	.row{
+		margin-top: 9%;
+	}
+	.txt{
+		font-size:40px;
+		margin-lift:5%;
 	
 }
