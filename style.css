@@ -382,7 +382,7 @@ ul {
 	margin-top: 15%;
 	margin-left: 8%;
 	padding-bottom: 100px;
-	padding-right: 240px;
+/* 	padding-right: 240px; */
 }
 .abt-s-text h2 {
 	font-size: 80px;
@@ -856,8 +856,8 @@ iframe {
 	.row{
 		margin-top: 9%;
 	}
-	.abs-s-text .txt{
-		font-size:40px;
-		margin-lift:5%;
+	.abs-s-text .txt h2{
+		font-size: 40px;
+		margin-left:5%;
 	
 }
