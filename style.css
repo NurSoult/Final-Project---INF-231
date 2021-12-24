@@ -19,7 +19,7 @@ body {
 .center-text {
 	color: whitesmoke;
 	font-family: "Oswald", sans-serif;
-	margin-top: 10%;
+	margin-top: 14%;
 	margin-left: 40%;
 	margin-bottom: 150px;
 }
@@ -90,7 +90,7 @@ p {
 	font-family: 'Oswald', sans-serif;
 	font-size: 20px;
 	margin-left: 40px;
-	padding: 40px;
+	padding: 33px;
 	color: #d7d710;
 	display: flex;
 }
@@ -372,12 +372,14 @@ ul {
 }
 
 .fon {
-	height: 1080px;
-	position: relative;
+	background-size: cover;
+    height: auto;
+    width: 100%;
+    position: relative;
     padding-bottom: 56.25%;
 }
 .abt-s-text {
-	margin-top: 13%;
+	margin-top: 15%;
 	margin-left: 8%;
 	padding-bottom: 100px;
 	padding-right: 240px;
@@ -733,6 +735,9 @@ iframe {
 	.phonemen{
 		display: contents;
 	}
+	.abt-s-text {
+		margin-top: 0%;
+	}
 	/* nav */
 	.navbar{
 		width: 250px;
@@ -836,19 +841,17 @@ iframe {
 		height: 350px;
 	}
     /* about us */
-	.about-text{
+	.abt-s-text {
 		margin-left: 5%;
 	}
-	.alogo{
+	.logo{
 		width: 25%;
 		margin-top: 4px;
 	}
-	.midnav{
+	.nav{
 		width: 50%;
 		margin-top: 17px;
 	}
-	.txt{
-		margin-top: 0%;
-	}
+	
 	
 }
