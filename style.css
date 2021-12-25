@@ -726,9 +726,7 @@ iframe {
 .cardboxes{
 	display: flex;
 }
-.whychoseus{
-	height: 600px;
-}
+
 .text{
 	color: white;
 	font-size: 20px;
