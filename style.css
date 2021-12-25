@@ -910,5 +910,9 @@ iframe {
 	.abs-s-text .txt h2{
 		font-size: 40px;
 		margin-left:5%;
+	}
+	.cardboxes{
+		display: contents;
+	}
 	
 }
