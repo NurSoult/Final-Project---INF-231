@@ -726,6 +726,16 @@ iframe {
 .cardboxes{
 	display: flex;
 }
+.whychoseus{
+	height: 600px;
+}
+.text{
+	color: white;
+	font-size: 20px;
+}
+.box p{
+	color: white;
+}
 .card{
 	width: 350px;
 	margin-left: 2%;
@@ -764,6 +774,7 @@ iframe {
 .card:hover img{
     border-color: #fff;
   }
+
 @media (max-width:805px){
 	.center-text{
 		display: none;
